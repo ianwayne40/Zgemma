@@ -1,0 +1,192 @@
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,BBC One Lon
+http://192.168.1.161:8001/1:0:1:189D:7FD:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,BBC Two
+http://192.168.1.161:8001/1:0:1:189E:7FD:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,ITV London
+http://192.168.1.161:8001/1:0:1:274C:7FC:2:11A0000:0:0:0::ITV London
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Channel 4
+http://192.168.1.161:8001/1:0:1:23FB:7F9:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Channel 5
+http://192.168.1.161:8001/1:0:1:1E15:809:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,W
+http://192.168.1.161:8001/1:0:1:1978:7E6:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,ITV2
+http://192.168.1.161:8001/1:0:1:2756:7FC:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,5STAR
+http://192.168.1.161:8001/1:0:1:1E23:809:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,ITVBe
+http://192.168.1.161:8001/1:0:1:275B:7FC:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,TLC
+http://192.168.1.161:8001/1:0:1:1859:7F3:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,E4
+http://192.168.1.161:8001/1:0:1:2419:7F9:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,More4
+http://192.168.1.161:8001/1:0:1:2094:808:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,4seven
+http://192.168.1.161:8001/1:0:1:5302:814:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Really
+http://192.168.1.161:8001/1:0:1:CFE9:83F:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,QUEST
+http://192.168.1.161:8001/1:0:1:1845:7F3:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,CBS Reality
+http://192.168.1.161:8001/1:0:1:D7AE:840:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Quest Red
+http://192.168.1.161:8001/1:0:1:1846:7F3:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,5SELECT
+http://192.168.1.161:8001/1:0:1:1E24:809:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,ITV +1 London
+http://192.168.1.161:8001/1:0:1:27AB:805:2:11A0000:0:0:0::ITV +1 London
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Channel 4+1
+http://192.168.1.161:8001/1:0:1:2077:808:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Channel 5+1
+http://192.168.1.161:8001/1:0:1:1E28:809:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,W+1
+http://192.168.1.161:8001/1:0:1:6216:7E6:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,ITV2+1
+http://192.168.1.161:8001/1:0:1:27B5:805:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,5STAR+1
+http://192.168.1.161:8001/1:0:1:1E25:809:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,ITVBe+1
+http://192.168.1.161:8001/1:0:1:279B:805:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,TLC+1
+http://192.168.1.161:8001/1:0:1:CCDE:80E:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,E4+1
+http://192.168.1.161:8001/1:0:1:206C:808:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,More4+1
+http://192.168.1.161:8001/1:0:1:240E:7F9:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,QUEST+1
+http://192.168.1.161:8001/1:0:1:1847:7F3:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,CBS Reality+1
+http://192.168.1.161:8001/1:0:1:D7B1:840:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Nickelodeon+1
+http://192.168.1.161:8001/1:0:1:C78D:815:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Boomerang+1
+http://192.168.1.161:8001/1:0:1:C7B6:817:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Tiny Pop+1
+http://192.168.1.161:8001/1:0:1:D061:83E:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,POP+1
+http://192.168.1.161:8001/1:0:1:D07A:83E:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,CN+1
+http://192.168.1.161:8001/1:0:1:C7B2:817:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,BT Sport 1
+http://192.168.1.161:8001/1:0:1:D7A5:840:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,BT Sport 2
+http://192.168.1.161:8001/1:0:1:D020:83F:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,BT Sport 3
+http://192.168.1.161:8001/1:0:1:D7AB:840:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,BT Sport//ESPN
+http://192.168.1.161:8001/1:0:1:D025:83F:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Cartoon Netwrk
+http://192.168.1.161:8001/1:0:1:C7B1:817:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Boomerang
+http://192.168.1.161:8001/1:0:1:C7B5:817:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Nickelodeon
+http://192.168.1.161:8001/1:0:1:1C23:83B:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Nicktoons
+http://192.168.1.161:8001/1:0:1:1C20:83B:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,CBBC
+http://192.168.1.161:8001/1:0:1:2870:800:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,POP
+http://192.168.1.161:8001/1:0:1:D05C:83E:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Tiny Pop
+http://192.168.1.161:8001/1:0:1:D052:83E:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Cartoonito
+http://192.168.1.161:8001/1:0:1:C7B7:817:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,CITV
+http://192.168.1.161:8001/1:0:1:2757:7FC:2:11A0000:0:0:0:
