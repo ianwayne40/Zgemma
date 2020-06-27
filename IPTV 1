@@ -190,4 +190,28 @@ http://192.168.1.161:8001/1:0:1:C7B7:817:2:11A0000:0:0:0:
 #EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1,CITV
 http://192.168.1.161:8001/1:0:1:2757:7FC:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky One  [+]
+http://192.168.1.161:8001/1:0:1:9BC:63:27:FFFF0000:0:0:0:http://streams.phtvmedia.com:8085/live/sctoorjones36@gmail.com/sB8UHTKbeD/62502.ts:Sky One  [+]
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Two 
+http://192.168.1.161:8001/1:0:1:9BE:63:27:FFFF0000:0:0:0:http://streams.phtvmedia.com:8085/live/sctoorjones36@gmail.com/sB8UHTKbeD/62500.ts:Sky Two 
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Witness  [+]
+http://192.168.1.161:8001/1:0:1:2DDD:63:27:FFFF0000:0:0:0:http://streams.phtvmedia.com:8085/live/sctoorjones36@gmail.com/sB8UHTKbeD/62496.ts:Sky Witness  [+]
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Lifetime  [+]
+http://192.168.1.161:8001/1:0:1:80F:63:27:FFFF0000:0:0:0:http://streams.phtvmedia.com:8085/live/sctoorjones36@gmail.com/sB8UHTKbeD/62490.ts:Lifetime  [+]
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Pick [+]
+http://192.168.1.161:8001/1:0:1:907:63:27:FFFF0000:0:0:0:http://streams.phtvmedia.com:8085/live/sctoorjones36@gmail.com/sB8UHTKbeD/62487.ts:Pick [+]
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Crime [+]
+http://192.168.1.161:8001/1:0:1:7E0:63:27:FFFF0000:0:0:0:http://streams.phtvmedia.com:8085/live/sctoorjones36@gmail.com/sB8UHTKbeD/62481.ts:Sky Crime [+]
 
