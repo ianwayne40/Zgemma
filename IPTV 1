@@ -190,3 +190,18 @@ http://192.168.1.161:8001/1:0:1:C7B7:817:2:11A0000:0:0:0:
 #EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1,CITV
 http://192.168.1.161:8001/1:0:1:2757:7FC:2:11A0000:0:0:0:
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="Sky1.uk" tvg-name="Sky1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Sky_One_-_Logo_2017.svg/1280px-Sky_One_-_Logo_2017.svg.png" group-title="UK | Entertainment" tvg-shift="+2",Sky One 
+http://streams.phtvmedia.com:8085/live/sctoorjones36@gmail.com/sB8UHTKbeD/62502.ts
+#EXTINF:-1 tvg-chno="2" tvg-id="Sky2.uk" tvg-name="Sky2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Sky_Two_2017.png" group-title="UK | Entertainment" tvg-shift="+2",Sky Two 
+http://streams.phtvmedia.com:8085/live/sctoorjones36@gmail.com/sB8UHTKbeD/62500.ts
+#EXTINF:-1 tvg-chno="3" tvg-id="SkyWitness.uk" tvg-name="SkyWitness.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sky_Witness.svg/1280px-Sky_Witness.svg.png" group-title="UK | Entertainment" tvg-shift="+2",Sky Witness 
+http://streams.phtvmedia.com:8085/live/sctoorjones36@gmail.com/sB8UHTKbeD/62496.ts
+#EXTINF:-1 tvg-chno="4" tvg-id="Lifetime.uk" tvg-name="Lifetime.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/255px-Lifetime_logo17.svg.png" group-title="UK | Entertainment" tvg-shift="+2",Lifetime 
+http://streams.phtvmedia.com:8085/live/sctoorjones36@gmail.com/sB8UHTKbeD/62490.ts
+#EXTINF:-1 tvg-chno="5" tvg-id="PickTV.uk" tvg-name="PickTV.uk" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-10/Pick-logo-255x140.png" group-title="UK | Entertainment" tvg-shift="+2",Pick
+http://streams.phtvmedia.com:8085/live/sctoorjones36@gmail.com/sB8UHTKbeD/62487.ts
+#EXTINF:-1 tvg-chno="6" tvg-id="Really.uk" tvg-name="Really.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Real_lives_logo.png" group-title="UK | Entertainment" tvg-shift="+2",Sky Crime
+http://streams.phtvmedia.com:8085/live/sctoorjones36@gmail.com/sB8UHTKbeD/62481.ts
+#EXTINF:-1 tvg-chno="7" tvg-id="SkySportsPremierLeague.uk" tvg-name="SkySportsPremierLeague.uk" tvg-logo="http://78.46.39.135/logos/skysportspl.png" group-title="UK | Sky Sports" tvg-shift="+2",Sky Sports Premier League
+http://streams.phtvmedia.com:8085/live/sctoorjones36@gmail.com/sB8UHTKbeD/64128.ts
