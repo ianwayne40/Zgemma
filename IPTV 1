@@ -214,4 +214,8 @@ http://192.168.1.161:8001/1:0:1:907:63:27:FFFF0000:0:0:0:http://streams.phtvmedi
 #EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1,Sky Crime [+]
 http://192.168.1.161:8001/1:0:1:7E0:63:27:FFFF0000:0:0:0:http://streams.phtvmedia.com:8085/live/sctoorjones36@gmail.com/sB8UHTKbeD/62481.ts:Sky Crime [+]
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sports Premier League [+]
+http://192.168.1.161:8001/1:0:1:12B2:63:27:FFFF0000:0:0:0:http://streams.phtvmedia.com:8085/live/sctoorjones36@gmail.com/sB8UHTKbeD/64128.ts:Sky Sports Premier League [+]
 
