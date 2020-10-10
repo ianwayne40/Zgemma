@@ -1,0 +1,175 @@
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,BBC One
+#EXTVLCOPT:program=666
+http://192.168.1.187:8001/1:0:1:29A:51DB:0:0:0:0:0:http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/20955.ts:BBC One
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,ITV One
+#EXTVLCOPT:program=666
+http://192.168.1.187:8001/1:0:1:29A:51F4:0:0:0:0:0:http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/20980.ts:ITV One
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Channel Four
+#EXTVLCOPT:program=666
+http://192.168.1.187:8001/1:0:1:29A:7B73:0:0:0:0:0:http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/31603.ts:Channel Four
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Channel Five
+#EXTVLCOPT:program=666
+http://192.168.1.187:8001/1:0:1:29A:7B74:0:0:0:0:0:http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/31604.ts:Channel Five
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Dave
+#EXTVLCOPT:program=666
+http://192.168.1.187:8001/1:0:1:29A:51BF:0:0:0:0:0:http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/20927.ts:Dave
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky One
+#EXTVLCOPT:program=666
+http://192.168.1.187:8001/1:0:1:29A:753C:0:0:0:0:0:http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/30012.ts:Sky One
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Pick
+#EXTVLCOPT:program=666
+http://192.168.1.187:8001/1:0:1:29A:519A:0:0:0:0:0:http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/20890.ts:Pick
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,W
+#EXTVLCOPT:program=666
+http://192.168.1.187:8001/1:0:1:29A:51F7:0:0:0:0:0:http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/20983.ts:W
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Five Star
+#EXTVLCOPT:program=666
+http://192.168.1.187:8001/1:0:1:29A:51E6:0:0:0:0:0:http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/20966.ts:Five Star
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,E Four
+#EXTVLCOPT:program=666
+http://192.168.1.187:8001/1:0:1:29A:7BB7:0:0:0:0:0:http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/31671.ts:E Four
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Four Seven
+#EXTVLCOPT:program=666
+http://192.168.1.187:8001/1:0:1:29A:72AE:0:0:0:0:0:http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/29358.ts:Four Seven
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Tlc
+#EXTVLCOPT:program=666
+http://192.168.1.187:8001/1:0:1:29A:5186:0:0:0:0:0:http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/20870.ts:Tlc
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sport Premier League
+#EXTVLCOPT:program=666
+http://192.168.1.187:8001/1:0:1:29A:4EA9:0:0:0:0:0:http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/20137.ts:Sky Sport Premier League
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sport Foot Ball
+#EXTVLCOPT:program=666
+http://192.168.1.187:8001/1:0:1:29A:68AD:0:0:0:0:0:http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/26797.ts:Sky Sport Foot Ball
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Car Toon Ito
+#EXTVLCOPT:program=666
+http://192.168.1.187:8001/1:0:1:29A:5EB4:0:0:0:0:0:http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/24244.ts:Car Toon Ito
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Nickelodeon
+#EXTVLCOPT:program=666
+http://192.168.1.187:8001/1:0:1:29A:4ECC:0:0:0:0:0:http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/20172.ts:Nickelodeon
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Nick Toon
+#EXTVLCOPT:program=666
+http://192.168.1.187:8001/1:0:1:29A:7291:0:0:0:0:0:http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/29329.ts:Nick Toon
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Boomerang
+#EXTVLCOPT:program=666
+http://192.168.1.187:8001/1:0:1:29A:7293:0:0:0:0:0:http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/29331.ts:Boomerang
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Mtv Base
+#EXTVLCOPT:program=666
+http://192.168.1.187:8001/1:0:1:29A:4ED5:0:0:0:0:0:http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/20181.ts:Mtv Base
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Mtv Dance
+#EXTVLCOPT:program=666
+http://192.168.1.187:8001/1:0:1:29A:484B:0:0:0:0:0:http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/18507.ts:Mtv Dance
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Mtv Classic
+#EXTVLCOPT:program=666
+http://192.168.1.187:8001/1:0:1:29A:51FD:0:0:0:0:0:http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/20989.ts:Mtv Classic
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Mtv
+#EXTVLCOPT:program=666
+http://192.168.1.187:8001/1:0:1:29A:51FB:0:0:0:0:0:http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/20987.ts:Mtv
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Kiss
+#EXTVLCOPT:program=666
+http://192.168.1.187:8001/1:0:1:29A:8FA2:0:0:0:0:0:http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/36770.ts:Kiss
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,The Box
+#EXTVLCOPT:program=666
+http://192.168.1.187:8001/1:0:1:29A:8FA7:0:0:0:0:0:http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/36775.ts:The Box
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Bang
+#EXTVLCOPT:program=666
+http://192.168.1.187:8001/1:0:1:29A:7B87:0:0:0:0:0:http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/31623.ts:Bang
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Porn
+#EXTVLCOPT:program=666
+http://192.168.1.187:8001/1:0:1:29A:593A:0:0:0:0:0:http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/22842.ts:Porn
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Xxl
+#EXTVLCOPT:program=666
+http://192.168.1.187:8001/1:0:1:29A:7B88:0:0:0:0:0:http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/31624.ts:Xxl
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Alba
+#EXTVLCOPT:program=666
+http://192.168.1.187:8001/1:0:1:29A:7158:0:0:0:0:0:http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/29016.ts:Alba
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Hot
+#EXTVLCOPT:program=666
+http://192.168.1.187:8001/1:0:1:29A:52AF:0:0:0:0:0:http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/21167.ts:Hot
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Hustler
+#EXTVLCOPT:program=666
+http://192.168.1.187:8001/1:0:1:29A:543B:0:0:0:0:0:http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/21563.ts:Hustler
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Mix Two
+#EXTVLCOPT:program=666
+http://192.168.1.187:8001/1:0:1:29A:53BA:0:0:0:0:0:http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/21434.ts:Mix Two
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Mix Six
+#EXTVLCOPT:program=666
+http://192.168.1.187:8001/1:0:1:29A:57F0:0:0:0:0:0:http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/22512.ts:Mix Six
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Mix Seven
+#EXTVLCOPT:program=666
+http://192.168.1.187:8001/1:0:1:29A:57DF:0:0:0:0:0:http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/22495.ts:Mix Seven
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Super One
+#EXTVLCOPT:program=666
+http://192.168.1.187:8001/1:0:1:29A:7B86:0:0:0:0:0:http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/31622.ts:Super One
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Tran
+#EXTVLCOPT:program=666
+http://192.168.1.187:8001/1:0:1:29A:4B4A:0:0:0:0:0:http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/19274.ts:Tran
