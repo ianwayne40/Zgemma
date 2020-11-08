@@ -61,3 +61,5 @@ http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/22507.ts
 http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/26790.ts
 #EXTINF:-1 tvg-chno="31" tvg-id="SkySportsF1.uk" tvg-name="SkySportsF1.uk" tvg-logo="" group-title="IPTV - Sky Sport" tvg-shift="+2",Sky Sport F One
 http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/26794.ts
+#EXTINF:-1 tvg-chno="115" tvg-id="SkyWitness.uk" tvg-name="SkyWitness.uk" tvg-logo="" group-title="UK: Movies" tvg-shift="+2",Sky Witness 
+http://skywatch.hopto.org:2052/live/zker3v7th/zker3v7th/34084.ts
