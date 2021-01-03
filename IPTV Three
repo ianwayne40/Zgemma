@@ -1,0 +1,4 @@
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,W
+http://192.168.1.65:8001/1:0:1:1978:7E6:2:11A0000:0:0:0:
